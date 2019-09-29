@@ -1,0 +1,13 @@
+Instalar node js
+Instalar express
+Instalar angular
+
+crear proyecto en angular -> ng new CRG
+lanzar el server de angular que se encarga de todo - > ng server
+
+DESARROLLO DEL FRONTEND 
+
+Creacion de componentes --> ng g component componentes/login
+Borrar un componentes: eliminar la carpeta-> eliminar import de app.module.ts y el componente de @NgModule
+
+Creacion del routing del angular del proyecto -> app.routing.ts inside componente
